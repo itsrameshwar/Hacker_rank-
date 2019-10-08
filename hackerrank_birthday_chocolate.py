@@ -4,3 +4,5 @@ def birthday(s, d, m):
         if sum(s[i:m+i])==d:
             c+=1
     return c
+
+
